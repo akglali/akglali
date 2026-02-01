@@ -1,10 +1,14 @@
+# About Me
+
 Hi 👋 I am Ali Akgol
 ==========================
 
 Software Developer
 ------------------
 
-A passionate software developer with over 2 years of experience specializing in backend development and distributed computing.
+I am a problem-focused technology professional who enjoys turning complex challenges into clear, practical solutions. My strength lies in analyzing real-world problems, breaking them down step by step, and creating systems that are efficient, user-friendly, and effective. I approach challenges with a calm and focused mindset, even under pressure.
+
+What makes me unique is my ability to combine technical skills with strong communication and innovative thinking. I don’t just focus on how something works—I focus on how it can work better for people. My goal is to grow as a professional while contributing to teams that value collaboration, continuous improvement, and meaningful impact.
 
 * ✉️  You can contact me at [akgol97\_@hotmail.com](mailto:akgol97_@hotmail.com)
 
